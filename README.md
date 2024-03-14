@@ -1,5 +1,3 @@
-# provezero.github.io
-一个无聊的网页
 <main>
   <ul class='slider'>
     <li class='item' style="background-image: url('https://cdn.mos.cms.futurecdn.net/dP3N4qnEZ4tCTCLq59iysd.jpg')">
